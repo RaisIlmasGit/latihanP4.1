@@ -1,0 +1,39 @@
+li {
+    color: purple;  
+  }
+h1 , h2 {
+      color: blue;
+  }
+  
+  button#submit {
+    background-color: green;
+  }
+  
+  
+  #bright{
+    color: red;
+  }
+  body#class{
+    color: red;
+  }
+  #flavors span{
+    color: red;
+  }
+  
+  .size{
+    color: magenta;
+  }
+  
+  input[type="email"]{
+    background-color: orange;
+  }
+  
+  a[href$=".org"]{
+    color: magenta;
+  }
+  
+  h2.bright{
+    color: cyan;
+  }
+  
+  
